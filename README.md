@@ -1,3 +1,5 @@
+[**_Math class teaches a computer to channel J.S. Bach_**](https://natsci.source.colostate.edu/math-class-teaches-a-computer-to-channel-j-s-bach/)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kkarimov/LSTM/master/LSTMclassgroup1200.jpg" alt="Logo">
 </p>
