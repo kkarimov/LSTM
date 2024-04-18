@@ -12,5 +12,5 @@ The code for class-project reproducing the article [**_"LSTM: A Search Space Ody
 
 Take it easy, this is just a class project from 2019. I'm no LSTM-expert, and the code hasn't been reviewed ever since submission.
 
-[View PDF](https://drive.google.com/file/d/1nCt6BJmxWd3Gczqy7BNCxDVr0C9v5m_N/preview)
+[Submission](https://drive.google.com/file/d/1nCt6BJmxWd3Gczqy7BNCxDVr0C9v5m_N/preview)
 
